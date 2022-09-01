@@ -47,4 +47,26 @@ Many developed algorithms do not follow entirely the concepts of a simple metahe
 1) Improve the performance of evolutionary algorithms.
 2) Improve the quality of solutions obtained by evolutionary algorithms. 
 3) Incorporate evolutionary algorithms as part of a larger system.
+### MONITORING OF WATER QUALITY USING REMOTE SENSING DATA MINING-
+The relationship between quality of water and the reflection is analyzed using stepwise multiple linear regression analysis.
+### CLIMATE PREDICTION-
+To investigate methods of data mining suitable for developing a seasonal rainfall predictive model.
+PROCESS-
+1.Data Input
+2.Feature Extraction
+3.Feature Selection
+4.Implement Discriminant Analysis
+5.Model Validation
+### DATA MINING IN NEUROLOGY-
+The reach of Data Mining in medicine are mainly in the identification of relations, patterns and models supporting prediction and the decision-making processes, e.g. for diagnosis, prognosis, and treatment planning. When validated, these predictive models could be embedded in the clinical information systems as clinical decision support modules, reducing both subjectivity and time in making decisions.
+Applies to-
+1.Therapy Planning and Rehabilitation.
+2.Image and signal analysis- MRI (Magnetic Resonance Imaging).
+3.Personalized Speech Disorder Therapy Optimization.
+4.Visual Gene Ontology.
+5.Nutrition Database and planning.
+
+#### About the Author-
+Kimito Funatsu- (Dr. Science, Physical Organic Chemistry)
+“The progress of data mining technology and large public popularity establish a need for a comprehensive text on the subject. The series of books entitled by "Data Mining" address the need by presenting in-depth description of novel mining algorithms and many useful applications”
 
